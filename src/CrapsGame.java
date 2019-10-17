@@ -2,6 +2,7 @@ public class CrapsGame
 {
     //comment for purpose of commit
     //commit
+    //eterte
 	public static void main(String [] args)
 	{
 		int die1, die2;
